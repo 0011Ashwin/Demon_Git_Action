@@ -10,3 +10,4 @@ Ensure your GitHub repository is ready with the required code and directory stru
 
 Step 3: Create the GitHub Workflow File
 GitHub Actions use YAML files stored in the .github/workflows directory. Here's an example of a CI/CD pipeline:
+Github commit file place:->
